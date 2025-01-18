@@ -1,5 +1,4 @@
-<img src="![git2](https://github.com/user-attachments/assets/2342e992-d84f-48e6-bf87-3a1c4a4a06a4)"
-" alt="MasterHead" />
+[git2](https://github.com/user-attachments/assets/2342e992-d84f-48e6-bf87-3a1c4a4a06a4)"
 <h1 align="center">Hi 👋, I'm vijaylakshmi</h1>
 <h3 align="center">"DebuggingLife"</h3>
 
