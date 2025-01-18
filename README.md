@@ -1,7 +1,7 @@
 <img src="![git2](https://github.com/user-attachments/assets/2342e992-d84f-48e6-bf87-3a1c4a4a06a4)"
 " alt="MasterHead" />
 <h1 align="center">Hi 👋, I'm vijaylakshmi</h1>
-<h3 align="center">A Python library for data visualization and analysis.</h3>
+<h3 align="center">"DebuggingLife"</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kvijaylakshmi&label=Profile%20views&color=0e75b6&style=flat" alt="kvijaylakshmi" /> </p>
 
